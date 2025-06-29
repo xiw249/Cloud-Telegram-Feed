@@ -17,7 +17,7 @@ Within the project team, I was solely responsible for the design and implementat
 
 The system was built as a set of interconnected microservices deployed on GCP. Here is the high-level system diagram:
 
-![System Diagram](./[System%20Diagram].png)
+![System Diagram](./System%20Diagram.png)
 
 **Tech Stack:**
 - **Languages:** Python
